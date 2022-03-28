@@ -1,0 +1,9 @@
+9fans.net/go v0.0.4 h1:g7K+b5I1PlSBFLnjuco3LAx5boK39UUl0Gsrmw6Gl2U=
+9fans.net/go v0.0.4/go.mod h1:lfPdxjq9v8pVQXUMBCx5EO5oLXWQFlKRQgs1kEkjoIM=
+github.com/google/go-cmp v0.5.6 h1:BKbKCqvP6I+rmFHt06ZmyQtvB8xAkWdhFyr0ZUNZcxQ=
+github.com/rmatsuoka/apifs v0.0.0-20220325160336-432e4acd0d14 h1:Kp9fA3sLoKei98ULmw/Ftb+IyFsUvHqMvC6ZBvr8c8A=
+github.com/rmatsuoka/apifs v0.0.0-20220325160336-432e4acd0d14/go.mod h1:OlQXDOCOqZe6TdB6n+CQp5Z/rCJhdw3S/C9fe3px9aE=
+github.com/rmatsuoka/ya9p v0.0.0-20220324151503-73629fa1da2f h1:9d6+/dBOmepK8QCNB7FnUuKoJxBb5sKcMiqXvLZw64I=
+github.com/rmatsuoka/ya9p v0.0.0-20220324151503-73629fa1da2f/go.mod h1:gYFwsVt2GQ0wOL3sSO+WttfuvDKhd5atV8btgdqmGOk=
+github.com/sivchari/gotwtr v1.0.1 h1:cBd3ijWR+R0uMoHzP9+GRPqNbQU7yQMby3Ckb+eE0Mw=
+github.com/sivchari/gotwtr v1.0.1/go.mod h1:Fh5ysSUvNhCmRg5Cxa4GYHd8DuF/0votPhctE/t1ksk=
